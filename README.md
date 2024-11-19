@@ -1,4 +1,7 @@
 # LaurensiusDaniRendragraha_19624272_URO_openCVobjectDetection
+# Video Penjelasan Program OpenCV Object Detection (Laurensius Dani Rendragraha/19624272)
+https://drive.google.com/file/d/1gcslyOlgqCjc6hkMIR0sW_tgoAbINv3d/view?usp=sharing 
+
 # Spesifikasi Program
 
 ## Program: `colorPicker.py`
